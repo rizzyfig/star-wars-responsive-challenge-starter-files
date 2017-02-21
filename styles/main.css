@@ -1,0 +1,50 @@
+/*General Styles*/
+
+h1, h6, p {
+  color: #000;
+  font-family: Verdana, sans-serif;
+}
+
+
+
+/*Header Style*/
+
+header {
+  width: 100%;
+  background: #FFA500;
+}
+
+/*Card Style*/
+
+.card-image {
+  width: 100%;
+}
+
+.title, .caption{
+  padding-left: 15px;
+}
+
+.title {
+  font-size: 1em;
+  font-weight: bold;
+
+}
+
+.caption {
+  font-size: .75em;
+}
+
+/*Main Style*/
+main {
+  padding-top: 100px;
+}
+
+main .row {
+  margin-bottom: 20px;
+}
+
+.box {
+  height: 100%;
+  border: 1px solid #EEE;
+}
+
